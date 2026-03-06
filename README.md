@@ -1,2 +1,2 @@
 # Portfolio
-This Repository Provies a collection of simple Electrical Projects done in software such as simulation, design etc.
+This Repository Provies a collection of simple Electrical Projects done in software.
